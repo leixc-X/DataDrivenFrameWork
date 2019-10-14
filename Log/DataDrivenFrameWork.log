@@ -1,0 +1,58 @@
+2019 - 10 - 14 10: 59: 13 TestMail126AddContacts.py[line:41]INFO126邮箱添加联系人数据驱动测试开始...
+2019 - 10 - 14 10: 59: 21 TestMail126AddContacts.py[line:65]INFO启动浏览器，访问126邮箱主页
+2019 - 10 - 14 10: 59: 31 TestMail126AddContacts.py[line:75]DEBUG用户leixiaochen97登录后，断言页面关键字“收信”失败,异常信息None:
+2019 - 10 - 14 10: 59: 36 TestMail126AddContacts.py[line:110]INFO添加联系人772172255@qq.com成功
+2019 - 10 - 14 10: 59: 36 TestMail126AddContacts.py[line:127]INFO断言关键字772172255@qq.com 成功
+2019 - 10 - 14 10: 59: 42 TestMail126AddContacts.py[line:110]INFO添加联系人1170795377@qq.com成功
+2019 - 10 - 14 10: 59: 42 TestMail126AddContacts.py[line:127]INFO断言关键字1170795377@qq.com 成功
+2019 - 10 - 14 10: 59: 47 TestMail126AddContacts.py[line:110]INFO添加联系人1850053676@qq.com成功
+2019 - 10 - 14 10: 59: 47 TestMail126AddContacts.py[line:127]INFO断言关键字焦研奇 成功
+2019 - 10 - 14 10: 59: 55 TestMail126AddContacts.py[line:65]INFO启动浏览器，访问126邮箱主页
+2019 - 10 - 14 10: 59: 59 TestMail126AddContacts.py[line:75]DEBUG用户leixiaochen1997登录后，断言页面关键字“收信”失败,异常信息None:
+2019 - 10 - 14 11: 00: 04 TestMail126AddContacts.py[line:110]INFO添加联系人772172255@qq.com成功
+2019 - 10 - 14 11: 00: 04 TestMail126AddContacts.py[line:127]INFO断言关键字772172255@qq.com 成功
+2019 - 10 - 14 11: 00: 10 TestMail126AddContacts.py[line:110]INFO添加联系人1170795377@qq.com成功
+2019 - 10 - 14 11: 00: 10 TestMail126AddContacts.py[line:127]INFO断言关键字1170795377@qq.com 成功
+2019 - 10 - 14 11: 00: 15 TestMail126AddContacts.py[line:110]INFO添加联系人1850053676@qq.com成功
+2019 - 10 - 14 11: 00: 15 TestMail126AddContacts.py[line:127]INFO断言关键字焦研奇 成功
+2019 - 10 - 14 11: 00: 15 TestMail126AddContacts.py[line:142]INFO用户leixiaochen1997被忽略执行
+2019 - 10 - 14 11: 11: 02 TestMail126AddContacts.py[line:41]INFO126邮箱添加联系人数据驱动测试开始...
+2019 - 10 - 14 11: 11: 10 TestMail126AddContacts.py[line:65]INFO启动浏览器，访问126邮箱主页
+2019 - 10 - 14 11: 11: 13 TestMail126AddContacts.py[line:75]DEBUG用户leixiaochen97登录后，断言页面关键字“收信”失败,异常信息None:
+2019 - 10 - 14 11: 11: 18 TestMail126AddContacts.py[line:110]INFO添加联系人772172255@qq.com成功
+2019 - 10 - 14 11: 11: 19 TestMail126AddContacts.py[line:127]INFO断言关键字772172255@qq.com 成功
+2019 - 10 - 14 11: 11: 24 TestMail126AddContacts.py[line:110]INFO添加联系人1170795377@qq.com成功
+2019 - 10 - 14 11: 11: 24 TestMail126AddContacts.py[line:127]INFO断言关键字1170795377@qq.com 成功
+2019 - 10 - 14 11: 11: 30 TestMail126AddContacts.py[line:110]INFO添加联系人1850053676@qq.com成功
+2019 - 10 - 14 11: 11: 30 TestMail126AddContacts.py[line:127]INFO断言关键字焦研奇 成功
+2019 - 10 - 14 11: 11: 30 TestMail126AddContacts.py[line:139]INFO为用户leixiaochen97添加3个联系人,3个成功
+2019 - 10 - 14 11: 11: 38 TestMail126AddContacts.py[line:65]INFO启动浏览器，访问126邮箱主页
+2019 - 10 - 14 11: 11: 42 TestMail126AddContacts.py[line:75]DEBUG用户leixiaochen1997登录后，断言页面关键字“收信”失败,异常信息None:
+2019 - 10 - 14 11: 11: 47 TestMail126AddContacts.py[line:110]INFO添加联系人772172255@qq.com成功
+2019 - 10 - 14 11: 11: 47 TestMail126AddContacts.py[line:127]INFO断言关键字772172255@qq.com 成功
+2019 - 10 - 14 11: 11: 53 TestMail126AddContacts.py[line:110]INFO添加联系人1170795377@qq.com成功
+2019 - 10 - 14 11: 11: 53 TestMail126AddContacts.py[line:127]INFO断言关键字1170795377@qq.com 成功
+2019 - 10 - 14 11: 11: 58 TestMail126AddContacts.py[line:110]INFO添加联系人1850053676@qq.com成功
+2019 - 10 - 14 11: 11: 58 TestMail126AddContacts.py[line:127]INFO断言关键字焦研奇 成功
+2019 - 10 - 14 11: 11: 58 TestMail126AddContacts.py[line:139]INFO为用户leixiaochen1997添加3个联系人,3个成功
+2019 - 10 - 14 11: 11: 58 TestMail126AddContacts.py[line:142]INFO用户leixiaochen1997被忽略执行
+2019 - 10 - 14 11: 14: 49 TestMail126AddContacts.py[line:41]INFO126邮箱添加联系人数据驱动测试开始...
+2019 - 10 - 14 11: 14: 57 TestMail126AddContacts.py[line:65]INFO启动浏览器，访问126邮箱主页
+2019 - 10 - 14 11: 15: 04 TestMail126AddContacts.py[line:75]DEBUG用户leixiaochen97登录后，断言页面关键字“收信”失败,异常信息None:
+2019 - 10 - 14 11: 15: 09 TestMail126AddContacts.py[line:110]INFO添加联系人772172255@qq.com成功
+2019 - 10 - 14 11: 15: 09 TestMail126AddContacts.py[line:127]INFO断言关键字772172255@qq.com 成功
+2019 - 10 - 14 11: 15: 15 TestMail126AddContacts.py[line:110]INFO添加联系人1170795377@qq.com成功
+2019 - 10 - 14 11: 15: 15 TestMail126AddContacts.py[line:127]INFO断言关键字1170795377@qq.com 成功
+2019 - 10 - 14 11: 15: 20 TestMail126AddContacts.py[line:110]INFO添加联系人1850053676@qq.com成功
+2019 - 10 - 14 11: 15: 20 TestMail126AddContacts.py[line:127]INFO断言关键字焦研奇 成功
+2019 - 10 - 14 11: 15: 20 TestMail126AddContacts.py[line:139]INFO为用户leixiaochen97添加3个联系人,3个成功
+2019 - 10 - 14 11: 15: 28 TestMail126AddContacts.py[line:65]INFO启动浏览器，访问126邮箱主页
+2019 - 10 - 14 11: 15: 32 TestMail126AddContacts.py[line:75]DEBUG用户leixiaochen1997登录后，断言页面关键字“收信”失败,异常信息None:
+2019 - 10 - 14 11: 15: 37 TestMail126AddContacts.py[line:110]INFO添加联系人772172255@qq.com成功
+2019 - 10 - 14 11: 15: 37 TestMail126AddContacts.py[line:127]INFO断言关键字772172255@qq.com 成功
+2019 - 10 - 14 11: 15: 43 TestMail126AddContacts.py[line:110]INFO添加联系人1170795377@qq.com成功
+2019 - 10 - 14 11: 15: 43 TestMail126AddContacts.py[line:127]INFO断言关键字1170795377@qq.com 成功
+2019 - 10 - 14 11: 15: 49 TestMail126AddContacts.py[line:110]INFO添加联系人1850053676@qq.com成功
+2019 - 10 - 14 11: 15: 49 TestMail126AddContacts.py[line:127]INFO断言关键字焦研奇 成功
+2019 - 10 - 14 11: 15: 49 TestMail126AddContacts.py[line:139]INFO为用户leixiaochen1997添加3个联系人,3个成功
+2019 - 10 - 14 11: 15: 49 TestMail126AddContacts.py[line:142]INFO用户leixiaochen1997被忽略执行
